@@ -1,0 +1,39 @@
+scripts odoo /OpenERP)
+
+Copyright (c) 
+    2015 - Ait-Mlouk addi (aitmlouk@gmail.com)
+    http://aitmlouk.esy.es/
+
+License
+-------
+We chose to distribute this scripts under AGPL-3 license term. See LICENCE file
+for details.
+
+Required dependencies
+---------------------
+ - An OpenERP version 7 environment or odoo 8/9.
+
+Description
+-----------
+this scripts is about starting server automatically, backup all databases and clean old databases automatically
+
+Configuration
+-------------
+Just configure this scripts in linux (ubuntu 10.x ) environment.
+We hope it work for you.
+
+=======================
+-------------------------------------
+Follow me  :
+---------------------------------------
+Ait-Mlouk Addi (Technico-Functional Consultant Junior Odoo)
+odoo-services :Free Software Services, All Right Reserved
+Gmail: aitmlouk@gmail.com
+
+# Provides : Ait-Mlouk Addi (aitmlouk@gmail.com)     
+# site web : http://aitmlouk.esy.es/
+# blog     : http://aitmlouk-addi.blogspot.com/
+# linkedin : http://ma.linkedin.com/pub/addi-ait-mlouk/56/850/32a
+# viadeo   : http://ma.viadeo.com/en/profile/addi.mlk
+# Google+  : https://plus.google.com/+AitMloukAddi
+# Gmail    : aitmlouk@gmail.com
