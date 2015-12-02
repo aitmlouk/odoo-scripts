@@ -2,13 +2,7 @@
 ### BEGIN  INFO
 # Provides:           odoo-server
 # Short-Description:  Enterprise Resource Management software
-# modified : Ait-Mlouk addi (aitmlouk@gmail.com)
-# site web : http://odoo-services.esy.es/
-# blog     : http://aitmlouk-addi.blogspot.com/
-# linkedin : http://ma.linkedin.com/pub/addi-ait-mlouk/56/850/32a
-# viadeo   : http://ma.viadeo.com/en/profile/addi.mlk
-# Google+  : https://plus.google.com/+AitMloukAddi
-# Gmail    : aitmlouk@gmail.com
+# site web : http://www.odoo.com
 ### END INFO
 
 PATH=/bin:/sbin:/usr/bin

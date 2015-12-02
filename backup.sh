@@ -1,7 +1,7 @@
 #!/bin/sh
 ### BEGIN INIT INFO
 # Provides : Ait-Mlouk Addi (aitmlouk@gmail.com)     
-# site web : http://odoo-services.esy.es/
+# site web : http://www.aitmlouk-addi.info/
 # blog     : http://aitmlouk-addi.blogspot.com/
 # linkedin : http://ma.linkedin.com/pub/addi-ait-mlouk/56/850/32a
 # viadeo   : http://ma.viadeo.com/en/profile/addi.mlk
